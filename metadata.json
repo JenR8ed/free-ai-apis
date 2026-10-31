@@ -1,0 +1,8 @@
+{
+  "name": "Free AI APIs Explorer",
+  "description": "Interactive directory, code generator, $0 stack builder, and testing playground for 100+ free AI APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
